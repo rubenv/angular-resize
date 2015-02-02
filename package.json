@@ -1,6 +1,6 @@
 {
   "name": "angular-resize",
-  "version": "0.0.0",
+  "version": "1.0.0",
   "description": "Window.resize hooks for Angular.JS.",
   "main": "dist/angular-resize.js",
   "scripts": {
